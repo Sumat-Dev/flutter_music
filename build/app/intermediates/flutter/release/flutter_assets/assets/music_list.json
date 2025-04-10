@@ -1,0 +1,37 @@
+[
+  {
+    "title": "At Ease",
+    "artist": "Hazelwood",
+    "image": "assets/images/hazelwood-at-ease.png",
+    "duration": "1:46",
+    "url": "assets/audio/hazelwood-at-ease.mp3"
+  },
+  {
+    "title": "Marshmallow",
+    "artist": "Lukrembo",
+    "image": "assets/images/lukrembo-marshmallow.png",
+    "duration": "3:05",
+    "url": "assets/audio/lukrembo-marshmallow.mp3"
+  },
+  {
+    "title": "daydream",
+    "artist": "massobeats",
+    "image": "assets/images/massobeats-daydream.png",
+    "duration": "2:54",
+    "url": "assets/audio/massobeats-daydream.mp3"
+  },
+  {
+    "title": "honey jam",
+    "artist": "massobeats",
+    "image": "assets/images/massobeats-honey-jam.png",
+    "duration": "2:13",
+    "url": "assets/audio/massobeats-honey-jam.mp3"
+  },
+  {
+    "title": "Dreamy Skies",
+    "artist": "Pufino",
+    "image": "assets/images/pufino-dreamy-skies.png",
+    "duration": "2:14",
+    "url": "assets/audio/pufino-dreamy-skies.mp3"
+  }
+]

@@ -2,8 +2,26 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "archive",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/archive-4.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/args-2.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "async",
       "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/async-2.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "audio_session",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/audio_session-0.1.25",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -32,6 +50,12 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "crypto",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/crypto-3.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8",
       "packageUri": "lib/",
@@ -42,6 +66,18 @@
       "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/fake_async-1.3.2",
       "packageUri": "lib/",
       "languageVersion": "3.3"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/ffi-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/fixnum-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
     },
     {
       "name": "flutter",
@@ -60,6 +96,42 @@
       "rootUri": "file:///opt/homebrew/Caskroom/flutter/3.22.1/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.7"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///opt/homebrew/Caskroom/flutter/3.22.1/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "icons_launcher",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/icons_launcher-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/image-4.5.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "just_audio",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/just_audio-0.9.46",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "just_audio_platform_interface",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/just_audio_platform_interface-4.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "just_audio_web",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/just_audio_web-0.4.15",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker",
@@ -86,6 +158,12 @@
       "languageVersion": "3.6"
     },
     {
+      "name": "logger",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/logger-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/matcher-0.12.17",
       "packageUri": "lib/",
@@ -110,6 +188,78 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "path_provider",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/path_provider-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "path_provider_android",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/path_provider_android-2.2.16",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "path_provider_foundation",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/petitparser-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/platform-3.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "posix",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/posix-6.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "rename",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/rename-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/rxdart-0.28.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///opt/homebrew/Caskroom/flutter/3.22.1/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -120,6 +270,12 @@
       "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/source_span-1.10.1",
       "packageUri": "lib/",
       "languageVersion": "3.1"
+    },
+    {
+      "name": "sprintf",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "stack_trace",
@@ -152,6 +308,24 @@
       "languageVersion": "3.5"
     },
     {
+      "name": "typed_data",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "universal_io",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/universal_io-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/uuid-4.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -164,13 +338,37 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "flutter_misic",
+      "name": "web",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/xdg_directories-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/xml-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/itthiployseekum/.pub-cache/hosted/pub.dev/yaml-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "flutter_music",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-04-10T09:30:04.953968Z",
+  "generated": "2025-04-10T11:31:28.033512Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///opt/homebrew/Caskroom/flutter/3.22.1/flutter",

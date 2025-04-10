@@ -1,16 +1,58 @@
-# flutter_misic
 
-A new Flutter project.
+# flutter_music
 
-## Getting Started
+`flutter_music` is a music basic app built with Flutter. It allows users to play and enjoy their favorite music.
 
-This project is a starting point for a Flutter application.
+## How to Use
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Clone the project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/Sumat-Dev/flutter_music.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Install dependencies
+
+Go to the project folder and install the packages:
+
+```bash
+cd flutter_music
+flutter pub get
+```
+
+### 3. Set up platform
+
+For **Android**:
+
+- Make sure you have Android SDK.
+- Update `android/build.gradle` and `android/app/build.gradle` files if needed.
+
+For **iOS**:
+
+- Make sure you have Xcode installed.
+- Run this command to install CocoaPods:
+
+```bash
+cd ios
+pod install
+```
+
+### 4. Run the app
+
+To run the app, use:
+
+```bash
+flutter run
+```
+
+
+## APK Download
+
+To test the app on your device, you can download the APK file from the following link:
+
+[Download APK](https://drive.google.com/file/d/18uVyqTVBkhns1xALjftsZMJABtbxXP8G/view?usp=sharing)
+
+
+## License
+
+This project uses the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.

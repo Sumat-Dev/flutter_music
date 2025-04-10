@@ -28,6 +28,8 @@
         </intent>
     </queries>
 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <permission
         android:name="com.example.flutter_misic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -40,7 +42,7 @@
         android:debuggable="true"
         android:extractNativeLibs="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="flutter_misic" >
+        android:label="Flutter Music" >
         <activity
             android:name="com.example.flutter_misic.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

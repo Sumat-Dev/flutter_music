@@ -1,0 +1,4 @@
+#Thu Apr 10 18:32:08 ICT 2025
+base.0=/Users/itthiployseekum/Documents/GitHub/flutter_music/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
